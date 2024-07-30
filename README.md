@@ -1,2 +1,2 @@
 # laura
-https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat.gif
+![nyan-cat](https://github.com/user-attachments/assets/e5e90c3f-bfc6-44ae-bdd4-d94915ba76b6)
