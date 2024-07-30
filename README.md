@@ -1,2 +1,2 @@
 # laura
-![Descrição do GIF](URL_DO_GIF)
+![Bem-vindo ao meu perfil](https://link-para-seu-gif.gif)
